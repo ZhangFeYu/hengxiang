@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>恒翔洲际车队</title>
-    <style>img {
+    <style data-parcel-key="cdd1baffece2cf6c5cd3938a844e31ad">
+        img {
             max-width: 100%;
         }
-</style>
+    </style>
 </head>
 <body>
     <nav>
@@ -132,18 +133,18 @@
         照片
     </h2>
         <div>
-            <a href="/1.5eaae37d.jpg" target="_blank">
-                <img width="400" src="/1.5eaae37d.jpg" alt="环中赛~王美银拿到人生中第二个历史性胜利">
+            <a href="45f0e278f0de11e637276ed86da3fc14" target="_blank">
+                <img width="400" src="45f0e278f0de11e637276ed86da3fc14" alt="环中赛~王美银拿到人生中第二个历史性胜利">
             </a>
         </div>
         <div>
-             <a href="/2.fb705d93.jpg" target="_blank">
-                <img width="400" src="/2.fb705d93.jpg" alt="环中赛亮相">
+             <a href="5c02069e764d429cb30b07f91aeca581" target="_blank">
+                <img width="400" src="5c02069e764d429cb30b07f91aeca581" alt="环中赛亮相">
             </a>
         </div>
         <div>
-            <a href="/3.0f117bc9.jpg" target="_blank">
-                <img width="400" src="/3.0f117bc9.jpg" alt="环中第一阶段王美银拿到top10">
+            <a href="7a6c50d37563412545dc57764f26ee88" target="_blank">
+                <img width="400" src="7a6c50d37563412545dc57764f26ee88" alt="环中第一阶段王美银拿到top10">
             </a> 
          </div>
     <h2 id="qita">
@@ -170,4 +171,4 @@
                 <li>2014年全国公路锦标赛男子绕圈赛冠军。</li>
             </ui>
 </body>
-</html><script src="/index.3ebff041.js"></script>
+</html><script src="202f65accccb6071212b96a1d3c27081"></script>
